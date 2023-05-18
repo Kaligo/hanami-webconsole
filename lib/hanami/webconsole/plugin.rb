@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require "sassc"
 require "better_errors"
 require "binding_of_caller"
 
